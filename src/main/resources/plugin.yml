@@ -1,0 +1,12 @@
+name: DefaultChestNames
+main: com.taamc.DefaultChestNames.DefaultChestNames
+version: ${version}
+author: ryan_the_leach
+authors: [ryan_the_leach]
+website: 
+thread: 
+softdepend:
+description: 
+commands:
+permissions:
+
